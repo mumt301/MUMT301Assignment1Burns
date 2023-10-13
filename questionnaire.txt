@@ -1,0 +1,53 @@
+MUMT301-2021 Assignment 1
+QUESTIONNAIRE!
+
+The following questionnaire seeks to understand your previous knowledge about some of the concepts that we will learn in class during the coming term.
+
+1. Do you know any programming languages? If you do, which ones?
+
+I have very basic familiarity with Max/MSP from MUMT 203, but nothing outside of that.
+
+2. What is your primary computer operating system (OS)?
+
+Mac Ventura 13.5.2
+
+3. Do you own a smartphone, tablet, or mobile device? What is your favourite OS for mobile devices?
+
+I own an iPhone. I like iOS and find it intuitive to use, but it's hard to call it my favourite because I have never used a smartphone with a different OS. 
+
+
+4. Do you use any social networking services? If you do, which ones? Why?
+
+I use twitter to keep up to date with sports, music, news, and other topics, and I use instagram to keep up with my friends and family.
+
+5. Expand the following acronyms and do research about their meaning. You may look them up if you don't know:
+
+
+	HTTP = Hypertext Transfer Protocol. The foundation of data communication for the World Wide Web, HTTP controls the transfer of data from a hosting server to a web browser. It allows for communication between web users and the servers on which web pages are hosted.
+  
+	REST = Representational State Transfer. Makes communication between systems easier by providing a standard between computers on the web. REST systems are stateless, meaning that the server and client don't need information about each other in order to understand the messages sent and received.   
+    
+	API = Application Programming Interface. Connects computers and other pieces of software to each other by providing a set of definitions for building and integrating application software.  
+
+6. Do you play a musical instrument or sing? If so, how much experience do you have?
+
+I play guitar, I have about 5 years experience with the instrument.
+
+7. Can you read music notation? If so, how well?
+
+I can read very basic music notation, notes and rhythms as well as some basic chords.
+
+8. How large is your personal music collection? Estimate the number of artists, albums, and songs. If instead you listen to music using streaming services, how many playlists, artists, albums, and songs do you have in your account?
+
+I have a record collection of about 100 albums, that I estimate would include about 30-40 artists and 1200-1400 songs. In addition to this, I have 1226 songs downloaded on Apple Music representing 125 albums and 58 artists. 
+
+9. How do you search and find new music? How do you think this affects the types of artists that you end up listening to?
+
+I find a lot of new music through looking in record stores for familiar names or songs on cheap albums that I haven't listened to. I also listen to the recommendations of friends and family, especially my dad and uncle. This allows me to find a steady stream of new music that is still related to the styles of rock, blues, punk, and soul that I play and enjoy listening to.
+
+10. Name two musical artists that you like. What do you find interesting about their music that makes you like them?
+
+My favourite artist of all time is probably Jimi Hendrix. I find not only his incredible talent on the guitar incredibly interesting, but also the way that his sound evolved throughout his career. After starting out on the blues circuit performer and session man for Little Richard, Curtis Knight, Don Covay, and other R&B and soul singers, his work with the Jimi Hendrix Experience captures everything from psych-pop rock to heartfelt ballads to heavily distorted Delta Blues. The three albums of Are You Experienced, Axis: Bold as Love, and Electric Ladyland capture an artistic progression over the span of three years that most artists don't achieve over decades long careers.
+Band of Gypsys and some of his posthumously released work point to the fact that this progression was far from complete at the time of his early passing. However, the few studio albums and scrappy live recordings that we are left with are enough to make Jimi Hendrix my favourite guitarist and one of my favourite musicians.
+
+Another musical artist that I have grown to like more recently is Ry Cooder. What I find interesting and deeply respect about him is his dedication to musical tradition while still working to push the boundaries and incorporate new styles. In the early part of his career, he featured as a session guitarist specialising in blues guitar for many artists, including the Rolling Stones. In fact, it is rumoured that Cooder was the one to show Keith Richards the Open G tuning that the latter used to compose many of his most famous riffs. Cooder's solo work also shows a deep love for the tradition of American blues, country, and gospel music, covering obscure artists from the country's past such as Blind Blake and Sleepy John Estes. However, he began to branch out in the 1980's and 90's, teaming up with international artists such as Ali Farka Toure and Pandit Vishnu Mohan Bhatt to create blends of his American style with the traditional music of other cultures. He is perhaps best known for his work on Buena Vista Social Club, an album showcasing a Cuban ensemble which he produced and played on, as well as his work on soundtracks for movies like Crossroads and Paris, Texas. 
